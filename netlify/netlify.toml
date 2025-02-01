@@ -1,4 +1,21 @@
+[build]
+  functions = "netlify/functions"
+
+
 [[redirects]]
-from="/*"
-to="/index.html"
+from ="/*"
+to ="/index.html"
 status = 200
+force = true
+
+[[redirects]]
+  from = "/recommend/*"
+  to = "/.netlify/functions/recommend_stock"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/404.html"
+  to = "/index.html"
+  status = 200
+  force = true

@@ -26,7 +26,7 @@ This system uses **real-time stock data** to suggest which stocks to buy, how ma
 
 ---
 
-[![Watch the demo](https://vumbnail.com/1052574652/c58f9b1462)](https://vimeo.com/1052574652/c58f9b1462)
+[![Watch the demo](https://img.youtube.com/vi/sniXeY3rQ0s/0.jpg)](https://www.youtube.com/watch?v=sniXeY3rQ0s)
 
 ---
 

@@ -1,3 +1,10 @@
+[build]
+command = "npm start"
+publish = "/frontend/public"
+base = "/'
+
+
+
 [[redirects]]
 from="/*"
 to="/index.html"

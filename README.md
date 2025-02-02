@@ -1,4 +1,4 @@
-# 📈 Stock Recommendation System 🚀
+# 📈 Stock Recommendation System. 🚀
 
 Welcome to the **Stock Recommendation System**, a web app that helps you make smarter investment decisions based on your **budget** and **risk level**! 💰
 

@@ -1,7 +1,7 @@
 # StockSage - Stock Market Analysis and Learning Platform
 
 StockSage is a comprehensive platform for stock market analysis, learning, and portfolio management. It provides users with real-time market data, educational resources, and personalized stock recommendations.
-
+ 
 ## Features
 
 - **Market Overview**: Real-time market data and trends
